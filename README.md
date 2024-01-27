@@ -8,4 +8,4 @@ MD5:70167d477a0c6f1575d03c4ff76472ed
 MD5:17fb8c6c7d9ec6630b45770accbe44e8
 
 不定时更新新功能，所有最新更新关注github，其他论坛的信息不确保是最新信息
-有问题就在issues里面发布你有的问题，如果你有什么好的想法可以在pull request里面发布信息
+有问题就在[issues](https://github.com/hefan2429/HELLOWORLD/issues)https://github.com/hefan2429/HELLOWORLD/issues里面发布你有的问题，如果你有什么好的想法可以在[pull request](https://github.com/hefan2429/HELLOWORLD/pulls)https://github.com/hefan2429/HELLOWORLD/pulls里面发布信息
