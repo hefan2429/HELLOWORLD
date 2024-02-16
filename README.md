@@ -1,9 +1,4 @@
-！！！！！！停止一切更新！！！！！！
-在不久的将来，我可能会公开全部源代码
-更新至2024.1.29 不会在发查毒链接了，你们下载后自己去查毒，太麻烦了
-![2](https://github.com/hefan2429/HELLOWORLD/assets/65473145/51297d6d-4719-4d3c-8cec-40c3fc47d7c3)
-![3](https://github.com/hefan2429/HELLOWORLD/assets/65473145/feb4483f-64aa-4f65-a10e-02937e75e3bc)
-
+![TNYC4P 1 L7KNOO5F0 Q`_C](https://github.com/hefan2429/HELLOWORLD/assets/65473145/dd8fd4a7-68c4-4179-b0c1-e30ce64e49a9)
 
 不定时更新新功能，所有最新更新关注github，其他论坛的信息不确保是最新信息
 有问题就在 [issues](https://github.com/hefan2429/HELLOWORLD/issues) 里面发布你有的问题，如果你有什么好的想法可以在 [pull request](https://github.com/hefan2429/HELLOWORLD/pulls) 里面发布信息
